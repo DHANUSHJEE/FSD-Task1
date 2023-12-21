@@ -1,2 +1,1 @@
-# FSD-Task1
-this the task1 of FSD class.
+https://medium.com/p/7146c7fbd1e7
